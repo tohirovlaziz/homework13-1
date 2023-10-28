@@ -1,0 +1,25 @@
+body {
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.u {
+    margin-left: 300px;
+}
+.img1 {
+    box-shadow:  15px 15px red;
+}
+.img2 {
+    margin-left: 30px;
+    padding-left: 20px;
+    box-shadow:  10px 10px blue;
+}
+.img3 {
+    margin-left: 70px;
+    padding-left: 20px;
+    box-shadow: 0px 0px 10px 25px green;
+}
+img {
+    margin-top: 50px;
+    height: 500px;
+    width: 500px;
+}
